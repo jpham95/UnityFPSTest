@@ -2,7 +2,7 @@
  
 FPS player controller for Unity.
 
-- Character animations bound to movespeed
+- Optimizing character animation blendtree to correspond with velocity
 - Crouching
 - Sprinting
 
